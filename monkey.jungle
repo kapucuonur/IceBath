@@ -1,0 +1,11 @@
+# IceBath Jungle File
+# Project configuration for Garmin Connect IQ
+
+project.manifest = manifest.xml
+
+# Source files
+base.sourcePath = source
+base.resourcePath = resources
+
+# Language support
+base.lang = eng;tur
