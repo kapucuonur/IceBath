@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<resources>
+    <strings>
+        <!-- Application Name -->
+        <string id="AppName">IceBath</string>
+        
+        <!-- Main Screen Labels -->
+        <string id="Duration">Duration</string>
+        <string id="HeartRate">Heart Rate</string>
+        <string id="BodyTemp">Body Temp</string>
+        <string id="WaterTemp">Water Temp</string>
+        <string id="Calories">Calories</string>
+        <string id="Stress">Stress</string>
+        <string id="Breathing">Breathing</string>
+        
+        <!-- Units -->
+        <string id="Bpm">bpm</string>
+        <string id="Celsius">°C</string>
+        <string id="Fahrenheit">°F</string>
+        <string id="Cal">cal</string>
+        
+        <!-- Warnings -->
+        <string id="WarningHighHR">High Heart Rate!</string>
+        <string id="WarningLowHR">Low Heart Rate!</string>
+        <string id="WarningLowTemp">Low Body Temp!</string>
+        <string id="WarningDuration">Time Limit!</string>
+        <string id="SafetyWarning">Stay Safe!</string>
+        
+        <!-- Menu Items -->
+        <string id="Start">Start</string>
+        <string id="Stop">Stop</string>
+        <string id="Resume">Resume</string>
+        <string id="Save">Save</string>
+        <string id="Discard">Discard</string>
+        <string id="Exit">Exit</string>
+        <string id="Settings">Settings</string>
+        
+        <!-- Settings -->
+        <string id="TargetDuration">Target Duration</string>
+        <string id="MaxHeartRate">Max Heart Rate</string>
+        <string id="MinHeartRate">Min Heart Rate</string>
+        <string id="MinBodyTemp">Min Body Temp</string>
+        <string id="TempUnit">Temperature Unit</string>
+        <string id="EnableAlerts">Enable Alerts</string>
+        
+        <!-- Status Messages -->
+        <string id="Ready">Ready</string>
+        <string id="Recording">Recording</string>
+        <string id="Paused">Paused</string>
+        <string id="Saved">Activity Saved</string>
+        <string id="DiscardConfirm">Sure to delete?</string>
+    </strings>
+</resources>
