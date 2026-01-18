@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<resources>
+    <settings>
+        <!-- Target Duration -->
+        <setting propertyKey="@Properties.targetDuration" title="@Strings.TargetDuration">
+            <settingConfig type="numeric" min="60" max="1800" />
+        </setting>
+        
+        <!-- Maximum Heart Rate -->
+        <setting propertyKey="@Properties.maxHeartRate" title="@Strings.MaxHeartRate">
+            <settingConfig type="numeric" min="100" max="220" />
+        </setting>
+        
+        <!-- Minimum Heart Rate -->
+        <setting propertyKey="@Properties.minHeartRate" title="@Strings.MinHeartRate">
+            <settingConfig type="numeric" min="30" max="100" />
+        </setting>
+        
+        <!-- Minimum Body Temperature -->
+        <setting propertyKey="@Properties.minBodyTemp" title="@Strings.MinBodyTemp">
+            <settingConfig type="numeric" min="5" max="25" />
+        </setting>
+        
+        <!-- Temperature Unit -->
+        <setting propertyKey="@Properties.tempUnit" title="@Strings.TempUnit">
+            <settingConfig type="list">
+                <listEntry value="0">Celsius</listEntry>
+                <listEntry value="1">Fahrenheit</listEntry>
+            </settingConfig>
+        </setting>
+        
+        <!-- Enable Alerts -->
+        <setting propertyKey="@Properties.enableAlerts" title="@Strings.EnableAlerts">
+            <settingConfig type="boolean" />
+        </setting>
+    </settings>
+    
+    <properties>
+        <property id="targetDuration" type="number">600</property>
+        <property id="maxHeartRate" type="number">160</property>
+        <property id="minHeartRate" type="number">40</property>
+        <property id="minBodyTemp" type="number">10</property>
+        <property id="tempUnit" type="number">0</property>
+        <property id="enableAlerts" type="boolean">true</property>
+    </properties>
+</resources>
