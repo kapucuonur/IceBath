@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<!-- Turkish Language Strings -->
+<resources>
+    <strings>
+        <!-- Application Name -->
+        <string id="AppName">BuzBanyosu</string>
+        
+        <!-- Main Screen Labels -->
+        <string id="Duration">Süre</string>
+        <string id="HeartRate">Kalp Atışı</string>
+        <string id="BodyTemp">Vücut Sıc.</string>
+        <string id="WaterTemp">Su Sıc.</string>
+        <string id="Calories">Kalori</string>
+        <string id="Stress">Stres</string>
+        <string id="Breathing">Solunum</string>
+        
+        <!-- Units -->
+        <string id="Bpm">atm/dk</string>
+        <string id="Celsius">°C</string>
+        <string id="Fahrenheit">°F</string>
+        <string id="Cal">kal</string>
+        
+        <!-- Warnings -->
+        <string id="WarningHighHR">Yüksek Nabız!</string>
+        <string id="WarningLowHR">Düşük Nabız!</string>
+        <string id="WarningLowTemp">Düşük Sıcaklık!</string>
+        <string id="WarningDuration">Süre Doldu!</string>
+        <string id="SafetyWarning">Dikkatli Ol!</string>
+        
+        <!-- Menu Items -->
+        <string id="Start">Başla</string>
+        <string id="Stop">Durdur</string>
+        <string id="Resume">Devam</string>
+        <string id="Save">Kaydet</string>
+        <string id="Discard">İptal</string>
+        <string id="Settings">Ayarlar</string>
+        
+        <!-- Settings -->
+        <string id="TargetDuration">Hedef Süre</string>
+        <string id="MaxHeartRate">Maks Nabız</string>
+        <string id="MinHeartRate">Min Nabız</string>
+        <string id="MinBodyTemp">Min Vücut Sıc.</string>
+        <string id="TempUnit">Sıcaklık Birimi</string>
+        <string id="EnableAlerts">Uyarıları Aç</string>
+        
+        <!-- Status Messages -->
+        <string id="Ready">Hazır</string>
+        <string id="Recording">Kaydediyor</string>
+        <string id="Paused">Duraklatıldı</string>
+        <string id="Saved">Aktivite Kaydedildi</string>
+    </strings>
+</resources>
