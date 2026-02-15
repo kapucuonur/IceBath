@@ -1,0 +1,25 @@
+{
+  "name": "IceBath",
+  "version": "1.0.0",
+  "description": "Garmin Connect IQ app for cold water swimming and ice bath activities",
+  "author": "Your Name",
+  "license": "MIT",
+  "keywords": [
+    "garmin",
+    "connect-iq",
+    "ice-bath",
+    "cold-water",
+    "swimming",
+    "wim-hof",
+    "health",
+    "fitness"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/icebath.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/icebath/issues"
+  },
+  "homepage": "https://github.com/yourusername/icebath#readme"
+}
