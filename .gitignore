@@ -1,0 +1,40 @@
+# Build artifacts
+bin/
+.build/
+
+# Compiler intermediary files
+gen/
+mir/
+internal-mir/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Garmin developer keys (SENSITIVE - never push!)
+GARMINKEY/
+developer_key
+developer_key.der
+*.der
+
+# Garmin build outputs
+*.prg
+*.iq
+*.prg.debug.xml
+
+# Node
+node_modules/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
